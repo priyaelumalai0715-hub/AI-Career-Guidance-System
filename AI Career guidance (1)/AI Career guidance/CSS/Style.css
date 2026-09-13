@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f7fb;
+}
+
+.hero-section {
+    padding: 120px 20px;
+    background: linear-gradient(135deg, #171c58, #5146e5);
+}
+
+.feature-card {
+    transition: 0.3s;
+}
+
+.feature-card:hover {
+    transform: translateY(-8px);
+}
+
+.login-bg {
+    background: linear-gradient(135deg, #171c58, #5146e5);
+}
+
+.dashboard-card {
+    transition: 0.3s;
+}
+
+.dashboard-card:hover {
+    transform: translateY(-5px);
+}
+
+.score {
+    font-size: 60px;
+    font-weight: bold;
+    margin: 20px;
+}
